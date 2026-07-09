@@ -1,0 +1,17 @@
+Row ID,Source System,Date,Record Type,Details,Reviewer/Author,Notes
+PR-01,Performance Review System,2023-05-02,Automated Score,"Score 78/100. KPI completion 81%, Peer feedback avg 4.0/5, Manager tags: Positive x2",Tom Reilly,Manager-reviewed and confirmed 2023-05-09
+PR-02,Performance Review System,2023-11-14,Automated Score,"Score 62/100. KPI completion 58%, Peer feedback avg 3.1/5, Manager tags: Neutral x2 Negative x1",Tom Reilly,Auto-finalized - manager review window expired 2023-11-28; manager never opened review screen
+PR-03,Performance Review System,2023-11-20,Internal Note,"Tom mentioned Adam seemed disengaged this cycle, might be worth a chat before year end.",Sarah Byrne,Mixed personal data - author + subject
+PR-04,Performance Review System,2023-08-15,System Config Log,"Automated fallback rule: if manager does not act within 14 days score auto-finalizes. Standing config since 2022-03-01.",System-generated,Not personal data about Adam directly - context for Art 15(1)(h) explanation
+PY-01,Payroll Ledger,2023-01,Base Salary,EUR 3200.00,Payroll system,
+PY-02,Payroll Ledger,2023-02,Base Salary,EUR 3200.00,Payroll system,
+PY-03,Payroll Ledger,2023-03 to 2023-10,Base Salary (8 months),EUR 3200.00/month,Payroll system,Unchanged
+PY-04,Payroll Ledger,2023-11,Base Salary,EUR 3200.00,Payroll system,PIP flag added by HR - see HRIS
+PY-05,Payroll Ledger,2023-12,Base Salary,EUR 3200.00,Payroll system,
+PY-06,Payroll Ledger,2024-01,Base Salary,EUR 3200.00,Payroll system,Final month - redundancy processed 2024-01-31
+PY-07,Payroll Ledger,2024-01,Redundancy Payment,EUR 4800.00,Payroll system,Role NW-Sales-Ops-04 marked redundant
+EM-01,Email Archive,2023-11-16,Internal Email,"From tom.reilly to sarah.byrne - Adam's cycle - His score came in low again might need to think about next steps",Tom Reilly -> Sarah Byrne,About Adam - third party senders
+EM-02,Email Archive,2023-12-04,Employee Email,"From adam.k to hr - Question about my review - never got to discuss Q4 review with manager",Adam K -> HR,Adam's own email - his data
+EM-03,Email Archive,2023-12-06,HR Reply Email,"From hr to adam.k - reviews sometimes auto-finalized if manager window lapses",HR -> Adam K,Reply to Adam
+EM-04,Email Archive,2024-01-10,Internal Email,"From sarah.byrne to tom.reilly and priya.osei - Redundancy selection matrix - Adam's Q4 automated score was one of the factors weighted in",Sarah Byrne -> Tom Reilly & Priya Osei,Key evidence linking score to redundancy decision
+EM-05,Email Archive,2024-01-25,Internal Email,"From tom.reilly to sarah.byrne - Agreed his score plus role overlap made him the clear candidate",Tom Reilly -> Sarah Byrne,Key evidence - redundancy rationale
